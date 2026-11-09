@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "type": "commonjs",
-  "dependencies": {
-    "jest": "^30.0.0"
+  "devDependencies": {
+    "jest": "^30.5.2"
   }
 }
